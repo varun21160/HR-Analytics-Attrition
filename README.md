@@ -73,3 +73,14 @@ IBM HR Analytics Employee Attrition Dataset
 
 ## 🚀 Outcome
 This project demonstrates an end-to-end HR analytics workflow combining Python, SQL, and Power BI to deliver actionable business insights.
+
+
+## 🌐 Dashboard Access
+Due to Power BI Service account restrictions, the dashboard is shared as a `.pbix` file.
+
+To view the dashboard:
+1. Download `HR_Attrition_Dashboard.pbix`
+2. Open it using Power BI Desktop
+3. Interact with slicers and visuals to explore insights
+
+A dashboard preview image is included above for quick reference.
