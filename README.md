@@ -47,19 +47,19 @@ This project analyzes key drivers of employee attrition to support data-driven H
 HR-Analytics-Attrition-Performance/
 │
 ├── data/
-│ └── cleaned_hr_attrition.csv
-│
-├── sql/
-│ └── hr_attrition_queries.sql
+│   └── cleaned_hr_attrition.csv
 │
 ├── notebooks/
-│ └── hr_attrition_analysis.py
+│   └── hr_attrition_analysis.py
+│
+├── sql/
+│   └── hr_attrition_queries.sql
 │
 ├── powerbi/
-│ └── HR_Attrition_Dashboard.pbix
+│   └── HR_Attrition_Dashboard.pbix   👈 THIS FILE
 │
 ├── images/
-│ └── dashboard.png
+│   └── dashboard.png
 │
 └── README.md
 
